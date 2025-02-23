@@ -1,7 +1,6 @@
 ## Hi there I'm Nick! 👋
 
-<!--
-**nchua3012/nchua3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer in training with a background in architecture, where I developed strong problem-solving skills, structured thinking, and the ability to lead projects from concept to completion. This experience has enhanced my ability to break down complex problems, collaborate with teams, and ensure seamless delivery. I have chosen to transition into software development because it shares architecture's user-centric approach, focusing on creating solutions that meet user needs.
 
 Here are some ideas to get you started:
 
