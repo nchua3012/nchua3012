@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Nick! 👋
 
 <!--
 **nchua3012/nchua3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
