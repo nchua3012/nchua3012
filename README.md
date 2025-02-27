@@ -11,7 +11,7 @@ I am a software developer in training with a background in architecture. My back
   <tr>
     <td align="center" style="width: 250px; padding: 20px;">
       <a href="https://github.com/nchua3012/Javascript-Fighting-Game">
-        <img src="https://github.com/nchua3012/Javascript-Fighting-Game/blob/main/Game%20Website.png?raw=true" width="250" alt="Javascript Fighting Game" style="border-radius: 10px;  4px 8px rgba(0, 0, 0, 0.2);">
+        <img src="https://github.com/nchua3012/Javascript-Fighting-Game/blob/main/Game%20Website.png?raw=true" width="250" alt="Javascript Fighting Game";">
       </a>
       <br><br>
       <a href="https://github.com/nchua3012/Javascript-Fighting-Game">
@@ -20,7 +20,7 @@ I am a software developer in training with a background in architecture. My back
     </td>
     <td align="center" style="width: 250px; padding: 20px;">
       <a href="https://github.com/nchua3012/NickChua">
-        <img src="https://github.com/nchua3012/NickChua/blob/main/Portfolio%20Website.png?raw=true" width="250" alt="Another Project" style="border-radius: 10px; 4px 8px rgba(0, 0, 0, 0.2);">
+        <img src="https://github.com/nchua3012/NickChua/blob/main/Portfolio%20Website.png?raw=true" width="250" alt="Another Project";">
       </a>
       <br><br>
       <a href="https://github.com/nchua3012/NickChua">
