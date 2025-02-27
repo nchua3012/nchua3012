@@ -2,7 +2,7 @@
 <br>
 
 
-I am a software developer in training with a background in architecture. This experience has helped me develop my ability to break down complex problems, collaborate with teams, and apply strong problem-solving skills and analytical thinking. I’ve chosen to transition into software development as it shares architecture’s user-centric approach, focusing on creating solutions that meet users' needs.
+I am a software developer in training with a background in architecture. My background in architecture has strengthened my ability to deconstruct complex problems, collaborate effectively within teams, and apply critical problem-solving and analytical thinking to create user-focused solutions. I’ve chosen to transition into software development as it shares architecture’s user-centric approach, focusing on creating solutions that meet users' needs.
 <br>
 
 ## My Projects  
