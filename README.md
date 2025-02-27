@@ -9,7 +9,7 @@ I am a software developer in training with a background in architecture. My back
 <br>
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <!-- Project 1 -->
+  
   <div style="width: 250px; padding: 20px; text-align: center;">
     <a href="https://github.com/nchua3012/Javascript-Fighting-Game" style="outline: none; text-decoration: none;">
       <img src="https://github.com/nchua3012/Javascript-Fighting-Game/blob/main/Game%20Website.png?raw=true" width="250" alt="Javascript Fighting Game" style="outline: none; border: none;">
@@ -20,7 +20,6 @@ I am a software developer in training with a background in architecture. My back
     </a>
   </div>
 
-  <!-- Project 2 -->
   <div style="width: 250px; padding: 20px; text-align: center;">
     <a href="https://github.com/nchua3012/NickChua" style="outline: none; text-decoration: none;">
       <img src="https://github.com/nchua3012/NickChua/blob/main/Portfolio%20Website.png?raw=true" width="250" alt="Nick Chua Portfolio Website" style="outline: none; border: none;">
