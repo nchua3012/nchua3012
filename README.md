@@ -7,9 +7,9 @@ I am a software developer in training with a background in architecture. My back
 
 ## My Projects  
 <br>
-<table align="center" style="border-spacing: 40px; width: 80%; max-width: 1200px; border: none;">
+<table align="center" style="border-spacing: 40px; width: 80%; max-width: 1200px; border: none; outline: none">
   <tr>
-    <td align="center" style="width: 250px; padding: 20px;border: none;">
+    <td align="center" style="width: 250px; padding: 20px;border: none; outline: none">
       <a href="https://github.com/nchua3012/Javascript-Fighting-Game">
         <img src="https://github.com/nchua3012/Javascript-Fighting-Game/blob/main/Game%20Website.png?raw=true" width="250" alt="Javascript Fighting Game">
       </a>
@@ -18,7 +18,7 @@ I am a software developer in training with a background in architecture. My back
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchua3012&repo=Javascript-Fighting-Game&theme=apprentice" alt="Repo Card">
       </a>
     </td>
-    <td align="center" style="width: 250px; padding: 20px;border: none;">
+    <td align="center" style="width: 250px; padding: 20px;border: none; outline: none">
       <a href="https://github.com/nchua3012/NickChua">
         <img src="https://github.com/nchua3012/NickChua/blob/main/Portfolio%20Website.png?raw=true" width="250" alt="Nick Chua Portfolio Website">
       </a>
