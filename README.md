@@ -30,7 +30,7 @@ I am a software developer in training with a background in architecture. My back
 
 <br>
 
-
+<br>
 <br>
 <br>
 <br>
