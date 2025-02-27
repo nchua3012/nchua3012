@@ -7,6 +7,6 @@ I am a software developer in training with a background in architecture. My back
 
 ## Skills 
 
-**Languages**: JavaScript, HTML, CSS
-**Frameworks**: Node.js, Express
-**Other**: Git, Adobe Creative Suite, Figma
+**Languages**: JavaScript, HTML, CSS  
+**Frameworks**: Node.js, Express  
+**Other**: Git, Adobe Creative Suite, Figma  
