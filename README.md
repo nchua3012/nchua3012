@@ -30,4 +30,12 @@ I am a software developer in training with a background in architecture. My back
   </tr>
 </table>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
