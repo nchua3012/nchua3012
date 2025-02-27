@@ -8,7 +8,7 @@ I am a software developer in training with a background in architecture. My back
 ## My Projects  
 <br>
 
-<div style="display: inline-block; width: 200px; text-align: center; margin-right: 40px;">
+<div style="display: inline-block; width: 250px; text-align: center; vertical-align: top; margin-right: 40px;">
   <a href="https://github.com/nchua3012/Javascript-Fighting-Game" style="outline: none; text-decoration: none;">
     <img src="https://github.com/nchua3012/Javascript-Fighting-Game/blob/main/Game%20Website.png?raw=true" width="250" alt="Javascript Fighting Game" style="outline: none; border: none;">
   </a>
@@ -18,7 +18,7 @@ I am a software developer in training with a background in architecture. My back
   </a>
 </div>
 
-<div style="display: inline-block; width: 200px; text-align: center;">
+<div style="display: inline-block; width: 250px; text-align: center; vertical-align: top;">
   <a href="https://github.com/nchua3012/NickChua" style="outline: none; text-decoration: none;">
     <img src="https://github.com/nchua3012/NickChua/blob/main/Portfolio%20Website.png?raw=true" width="250" alt="Nick Chua Portfolio Website" style="outline: none; border: none;">
   </a>
@@ -27,6 +27,9 @@ I am a software developer in training with a background in architecture. My back
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchua3012&repo=NickChua&theme=apprentice" alt="Repo Card" style="outline: none; border: none;">
   </a>
 </div>
+
+<br>
+
 
 <br>
 
