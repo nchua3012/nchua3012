@@ -7,30 +7,29 @@ I am a software developer in training with a background in architecture. My back
 
 ## My Projects  
 <br>
-<table align="center" style="border-spacing: 0; width: 80%; max-width: 1200px; border: none; outline: none;">
+<table align="center" style="border-spacing: 0; width: 80%; max-width: 1200px; border: none;">
   <tr>
-    <td align="center" style="width: 250px; padding: 20px; border: none; outline: none;">
-      <a href="https://github.com/nchua3012/Javascript-Fighting-Game" style="outline: none;">
-        <img src="https://github.com/nchua3012/Javascript-Fighting-Game/blob/main/Game%20Website.png?raw=true" width="250" alt="Javascript Fighting Game" style="outline: none;">
+    <td align="center" style="width: 250px; padding: 20px; border: none;">
+      <a href="https://github.com/nchua3012/Javascript-Fighting-Game" style="outline: none; border: none; background: transparent;">
+        <img src="https://github.com/nchua3012/Javascript-Fighting-Game/blob/main/Game%20Website.png?raw=true" width="250" alt="Javascript Fighting Game" style="outline: none; border: none;">
       </a>
       <br><br>
-      <a href="https://github.com/nchua3012/Javascript-Fighting-Game" style="outline: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchua3012&repo=Javascript-Fighting-Game&theme=apprentice" alt="Repo Card" style="outline: none;">
+      <a href="https://github.com/nchua3012/Javascript-Fighting-Game" style="outline: none; border: none; background: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchua3012&repo=Javascript-Fighting-Game&theme=apprentice" alt="Repo Card" style="outline: none; border: none;">
       </a>
     </td>
-    <td align="center" style="width: 250px; padding: 20px; border: none; outline: none;">
-      <a href="https://github.com/nchua3012/NickChua" style="outline: none;">
-        <img src="https://github.com/nchua3012/NickChua/blob/main/Portfolio%20Website.png?raw=true" width="250" alt="Nick Chua Portfolio Website" style="outline: none;">
+    <td align="center" style="width: 250px; padding: 20px; border: none;">
+      <a href="https://github.com/nchua3012/NickChua" style="outline: none; border: none; background: transparent;">
+        <img src="https://github.com/nchua3012/NickChua/blob/main/Portfolio%20Website.png?raw=true" width="250" alt="Nick Chua Portfolio Website" style="outline: none; border: none;">
       </a>
       <br><br>
-      <a href="https://github.com/nchua3012/NickChua" style="outline: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchua3012&repo=NickChua&theme=apprentice" alt="Repo Card" style="outline: none;">
+      <a href="https://github.com/nchua3012/NickChua" style="outline: none; border: none; background: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchua3012&repo=NickChua&theme=apprentice" alt="Repo Card" style="outline: none; border: none;">
       </a>
     </td>
   </tr>
 </table>
 <br>
-
 <br>
 <br>
 <br>
