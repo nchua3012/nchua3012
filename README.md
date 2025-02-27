@@ -6,4 +6,4 @@ I'm a software developer in training with experience in JavaScript, HTML, and CS
 
 ## Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nchua3012-username&repo=Javascript-Fighting-Game&theme=radical)](https://github.com/nchua/Javascript-Fighting-Game)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=radical)](https://github.com/nchua/Javascript-Fighting-Game)
