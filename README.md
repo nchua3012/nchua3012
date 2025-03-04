@@ -2,8 +2,7 @@
 <br>
 
 
-I am a software developer with a background in architecture. I have seven years experience leading large-scale projects with significant budgets and collaborating with multidisciplinary design teams. My expertise includes working with spreadsheets and creating complex formulas. I’ve transitioned into software development as it shares architecture’s user-centric approach, focusing on creating solutions that meet peoples' needs. 
-<br>
+Software developer with a background in architecture and seven years of leadership in large-scale (£100M+) projects. Skilled in collaborating with multidisciplinary teams. Expertise in data management and advanced systems to support strategic planning. Applying an architect's lens to technology allows me to consider how different systems fit together—creating intuitive, functional designs that meet users' needs.
 
 ## Skills 
 
