@@ -2,7 +2,7 @@
 <br>
 
 
-Software developer with a background in architecture and seven years of leadership in large-scale (£100M+) projects. Skilled in collaborating with multidisciplinary teams. Expertise in data management and advanced systems to support strategic planning. Applying an architect's lens to technology allows me to consider how different systems fit together—creating intuitive, functional designs that meet users' needs.
+Software developer with a background in architecture and seven years of leadership in large-scale (£100M+) projects. Skilled in collaborating with multidisciplinary teams. Expertise in data management and advanced systems to support strategic planning. Applying an architect's lens to technology allows me to consider how different systems fit together, creating intuitive and functional designs that meet users' needs.
 
 ## Skills 
 
