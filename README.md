@@ -12,5 +12,5 @@ I am a software developer with a background in architecture. I have seven years 
 <br>
 <br>
 
-- 🔭 I’m currently working an app that creates a personalized character avatar based on user input, set in a cozy lounge space.
-- 🌱 I’m currently learning how to integrate APIs and work with databases using Node.js & Express.
+🔭 I’m currently working an app that creates a personalized character avatar based on user input, set in a cozy lounge space.
+🌱 I’m currently learning how to integrate APIs and work with databases using Node.js & Express.
