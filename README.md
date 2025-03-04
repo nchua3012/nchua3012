@@ -9,4 +9,4 @@ I am a software developer with a background in architecture. I have seven years 
 
 **Languages**: JavaScript, HTML, CSS  
 **Frameworks**: Node.js, Express  
-**Other**: Git, Adobe Creative Suite, Figma  
+**Other**: Git, Adobe Creative Suite, Microsoft office Suite, Figma
